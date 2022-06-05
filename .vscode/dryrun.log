@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/helios/Desktop/CSC project 2/mitm'
+chmod 777 mitm_attack
+chmod 777 pharm_attack
+make: Leaving directory '/home/helios/Desktop/CSC project 2/mitm'
+ 
